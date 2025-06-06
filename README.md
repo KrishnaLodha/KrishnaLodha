@@ -25,16 +25,10 @@
 
 ---
 
-### 📫 Get In Touch:
+### 📫 Connect with me:
 <p align="center">
-  <a href="mailto:your-email@example.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://linkedin.com/in/krishna-lodha" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/krishna-lodha-1947b9275/" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://twitter.com/your_twitter" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
 </p>
 
